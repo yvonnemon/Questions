@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="previousButton">Back</string>
+    <string name="nextButton">Next</string>
+    <string name="a">2+2=3</string>
+    <string name="b">si?</string>
+    <string name="c">la tierra es plana</string>
+    <string name="d">hola</string>
+    <string name="e">frase</string>
+    <string name="f">una pregunta</string>
+    <string name="g">1+1=7</string>
+    <string name="h">tres tristes tigres comen trigo en un trigal</string>
+    <string name="i">macarena</string>
+
+</resources>
